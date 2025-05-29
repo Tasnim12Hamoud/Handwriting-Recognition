@@ -19,17 +19,3 @@ This project demonstrates a deep learning model for recognizing handwritten Engl
 ## 📂 Dataset
 - EMNIST Letters dataset (available from `tensorflow_datasets` or `.csv`)
 - Classes: 26 English capital letters (A–Z)
-
-## 🛠️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/handwriting-recognition-gui.git
-cd handwriting-recognition-gui
-
-# Create a virtual environment (optional)
-python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
